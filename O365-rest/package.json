@@ -1,0 +1,16 @@
+{
+   "name": "o365-calendar-rest",
+   "version": "1.0.0",
+   "description": "Fetch events from Microsoft graph api",
+   "main": "src/App.js",
+   "scripts": {
+      "start": "node src/App.js"
+   },
+   "author": "Meita",
+   "license": "MIT",
+   "dependencies": {
+      "axios": "^0.19.1",
+      "cors": "^2.8.5",
+      "express": "^4.16.3"
+   }
+}

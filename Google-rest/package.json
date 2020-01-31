@@ -1,0 +1,20 @@
+{
+   "name": "google-calendar-rest",
+   "version": "1.0.0",
+   "description": "Fetch events from Google Calendar api",
+   "main": "src/App.js",
+   "scripts": {
+      "start": "node src/App.js"
+   },
+   "author": "Meita",
+   "license": "MIT",
+   "dependencies": {
+      "async-foreach": "^0.1.3",
+      "cors": "^2.8.5",
+      "express": "^4.16.3",
+      "fs": "0.0.1-security",
+      "googleapis": "^39.2.0",
+      "json-merger": "^1.1.2",
+      "readline": "^1.3.0"
+   }
+}
